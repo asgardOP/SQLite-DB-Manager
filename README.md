@@ -1,18 +1,30 @@
 # 🗃️ SQLite DB Manager
 
-A simple command-line tool for managing SQLite databases, built in Python.
+# DB Manager Pro
+
+A modern, interactive command-line tool for managing SQLite databases.  
+This tool allows you to create, edit, and explore `.db` files easily using Python.
+
+![DB Manager CLI Screenshot](screen.png)
+
+---
 
 ## Features
-- Create new databases and tables
-- Add, rename, or delete columns
-- Insert, update, search, and delete data
-- Display all tables with structure and rows
-- Color-coded terminal output for better readability
+- Create, rename, and delete databases or tables  
+- Add, rename, and remove columns  
+- Insert, search, update, and delete data  
+- Colorful and user-friendly terminal menus  
+- Automatically detects all `.db` files in the current directory  
+- Pretty table printing using the `tabulate` library (with fallback if not installed)
 
-## Usage
-1. Run the script:
+---
+
+## Installation
+
+1. Clone the repository:
    ```bash
    python DB_Manager.py
    
+
 ##✨ Author
   Developed by Ali Emad
