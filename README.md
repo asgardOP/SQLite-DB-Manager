@@ -26,5 +26,5 @@ This tool allows you to create, edit, and explore `.db` files easily using Pytho
    python DB_Manager.py
    
 
-##✨ Author
-  Developed by Ali Emad
+## ✨ Author
+  Developed by Ali Emad (asgard)
